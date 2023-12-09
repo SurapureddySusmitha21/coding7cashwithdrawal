@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.container {
+  list-style-type: none;
+  width: 48%;
+  margin-bottom: 16px;
+  padding-left: 30px;
+  text-align: center;
+}
+.button-A {
+  background-color: #382f5a;
+  font-size: 19px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #c4c4c4;
+  border: #c4c4c4 1px solid;
+  border-radius: 8px;
+
+  width: 100%;
+
+  padding-top: 5px;
+  padding-bottom: 4px;
+  cursor: pointer;
+  outline: none;
+}
